@@ -1,0 +1,23 @@
+{
+  "name": "bot-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotsOn-app/bot-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BotsOn-app/bot-extension/issues"
+  },
+  "homepage": "https://github.com/BotsOn-app/bot-extension#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "typescript": "^4.9.3"
+  }
+}
